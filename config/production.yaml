@@ -1,0 +1,5 @@
+database:
+  url: postgresql://app_brambleworks:yi6VR8Nbrv2y1AW8pzSWwfY4N8HM@brambleworks-prod.ie2xhlvo0q0j.us-east-1.rds.amazonaws.com:5432/brambleworks
+  pool: 10
+cache:
+  ttl_seconds: 300
